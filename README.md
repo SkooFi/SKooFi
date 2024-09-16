@@ -4,17 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/vskoofi" target="blank"><img src="https://img.shields.io/twitter/follow/vskoofi?logo=twitter&style=for-the-badge" alt="vskoofi" /></a> </p>
 
-- 🔭 I’m currently working on **Fivem**
-
-- 🌱 I’m currently learning **Lua , JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SkooFi](https://github.com/SkooFi)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vskoofi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vskoofi" height="30" width="40" /></a>
-<a href="https://instagram.com/by.hotboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.hotboy" height="30" width="40" /></a>
-<a href="https://discord.gg/X3657QPC2U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SKooFi" height="30" width="40" /></a>
+<a href="https://twitter.com/oskoofi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vskoofi" height="30" width="40" /></a>
+<a href="https://instagram.com/skoofi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.hotboy" height="30" width="40" /></a>
+<a href="https://discord.gg/llc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SKooFi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
