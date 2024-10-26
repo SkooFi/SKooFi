@@ -1,8 +1,6 @@
-<h1 align="center">391;</h1>
+<h1 align="center">391</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skoofi&label=Profile%20views&color=0e75b6&style=flat" alt="skoofi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/oskoofi" target="blank"><img src="https://img.shields.io/twitter/follow/oskoofi?logo=twitter&style=for-the-badge" alt="oskoofi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
